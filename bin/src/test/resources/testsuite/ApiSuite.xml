@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="APITestSuite" verbose="10">
+
+	<listeners>
+		<listener class-name="com.framework.report.TestListener" />
+	</listeners>
+
+	<test name="APITest" preserve-order="true" verbose="2">
+		<classes>
+<!--			<class name="com.test.api.PetsDataDriven" />-->
+<!--			<class name="com.test.api.GetPets" />-->
+<!--			<class name="com.test.api.GetPetsById" />-->
+<!--			<class name="com.test.api.PostPets" />-->
+<!--			<class name="com.dcr.api.changeReasonTypes" />-->
+			<class name="com.dcr.api.changeRequestTestNG" />
+		</classes>
+	</test>
+</suite>
+

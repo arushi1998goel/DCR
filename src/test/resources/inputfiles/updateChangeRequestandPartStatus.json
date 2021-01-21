@@ -1,0 +1,10 @@
+{
+  "issueKey": "DWP-1257",
+  "newStatus": 7,
+  "crpUpdatedIssueStatuses": [
+    {
+      "issueKey": "DWP-1258",
+      "newStatus": 6
+    }
+  ]
+}

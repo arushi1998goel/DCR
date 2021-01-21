@@ -1,0 +1,63 @@
+{
+  "parts":[
+    {
+      "changeRequestPartId":"AA2DF71D-530F-4E90-B9F9-AA120384AD45",
+      "changeRequestTypeId":"9cae0534-19aa-454f-ae29-3ab062665932",
+      "description":"Add assessment to visit description",
+      "context":[
+        {
+          "label":"Subject #",
+          "key":"source_subject",
+          "type":"textbox",
+          "order":1,
+          "contentType":"string",
+          "isSection":false,
+          "fields":[ ],
+          "value":"777"
+        },
+        {
+          "label":"Visit Name",
+          "key":"source_visit_name",
+          "type":"textbox",
+          "order":2,
+          "contentType":"string",
+          "isSection":false,
+          "fields":[ ],
+          "value":"Visit 155"
+        },
+        {
+          "label":"Assessment Name",
+          "key":"source_assessment_name",
+          "type":"textbox",
+          "order":3,
+          "contentType":"string",
+          "isSection":false,
+          "fields":[ ],
+          "value":"Assessment 155"
+        },
+        {
+          "label":"SVID",
+          "key":"source_site",
+          "type":"textbox",
+          "order":4,
+          "contentType":"string",
+          "isSection":false,
+          "fields":[ ],
+          "value":"999"
+        }
+      ],
+      "definition":"Add assessment to visit Visit 155 for subject 777",
+      "changeReasonTypeId":"bb794ca2-4905-483c-a96c-ed7080bf4c58",
+      "reasonDescription":"Data protection and privacy is needed for the site work to proceed",
+      "sequence":1
+    }
+  ],
+  "priority":"1",
+  "priorityDescription":"Low priority",
+  "lastModifiedById": "680A3B25-EE02-46F6-92B5-D7BA8C249FCF",
+  "rationale": "Update Rationale",
+  "changeRequestId": "17C73129-8931-4EF3-8EE0-77632C472B58",
+  "createdBy": "680A3B25-EE02-46F6-92B5-D7BA8C249FCF",
+  "studyId": "9A11E558-436B-492A-8D03-0D8D3A1A9C68",
+  "siteId": "D107007E-9349-465D-8C37-4D0A72563384"
+}

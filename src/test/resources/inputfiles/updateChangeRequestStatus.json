@@ -1,0 +1,10 @@
+{
+  "changeRequestId": "17C73129-8931-4EF3-8EE0-77632C472B58",
+  "newStatus": 2,
+  "rationale": "More information needed",
+  "qualityCheckName": "string",
+  "decision": 1,
+  "decisionRationale": "string",
+  "userLoggedId": "680A3B25-EE02-46F6-92B5-D7BA8C249FCF",
+  "blobContainer": null
+}

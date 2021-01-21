@@ -1,0 +1,16 @@
+{
+  "changeRequestId": "17C73129-8931-4EF3-8EE0-77632C472B58",
+  "issueInfo": {
+    "id": 104104,
+    "key": "DWP-1257"
+  },
+  "changeRequestPartIssueInfoInputs": [
+    {
+      "changeRequestPartId": "AA2DF71D-530F-4E90-B9F9-AA120384AD45",
+      "partIssueInfo": {
+        "id": 104105,
+        "key": "DWP-1258"
+      }
+    }
+  ]
+}

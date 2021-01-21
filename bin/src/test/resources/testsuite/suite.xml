@@ -1,0 +1,19 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="TestSuite" verbose="10">
+
+
+	<listeners>
+		<listener class-name="com.framework.report.TestListener" />
+		<listener class-name="com.test.listners.ZephyrListener" />
+	</listeners>
+
+
+	<test name="AllScripts" preserve-order="true" verbose="2">
+		<classes>
+			<class name="com.opencart.demo.scripts.OpenCartScenario01" />
+			<class name="com.opencart.demo.scripts.OpenCartScenario02" />
+			<class name="com.opencart.demo.scripts.OpenCartScenario03" />
+		</classes>
+	</test>
+	
+</suite>
